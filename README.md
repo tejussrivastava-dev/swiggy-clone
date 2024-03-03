@@ -2,7 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+
 ## Available Scripts
+
+https://github.com/tejussrivastava-dev/swiggy-clone/assets/142511137/8cac7868-2f5d-4d5d-ae59-c06a6c74a9ad
+
+
 
 In the project directory, you can run:
 
